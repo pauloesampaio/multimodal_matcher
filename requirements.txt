@@ -1,0 +1,7 @@
+pillow
+faiss-cpu
+numpy
+torch
+transformers
+streamlit
+python-dotenv
